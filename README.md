@@ -22,7 +22,7 @@ You have been assigned the responsibility of assisting IFCO's Data Team in the a
 * [orders.csv](resources/orders.csv) (which contains factual information regarding the orders received)
 * [invoicing_data.json](resources/invoicing_data.json) (which contains invoicing information)
 
-Explore the raw data and provide the code (well-commented) to answer the following questions/scenarios. For this exercise, you can only use Python (or PySpark). **Unit testing is essential** for ensuring the reliability and correctness of your code. Please include appropriate unit tests for each task.
+Explore the raw data and provide the code (well-commented) to answer the following questions/scenarios. For this exercise, you can only use Python, PySpark or SQL (e.g. in dbt). **Unit testing is essential** for ensuring the reliability and correctness of your code. Please include appropriate unit tests for each task.
 
 ### Test 1: Distribution of Crate Type per Company
 
